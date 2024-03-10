@@ -1,0 +1,952 @@
+{
+  "itinerarios": [
+    {
+      "user": {
+        "lugar": "Piura, Perú",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "Plaza de Armas de Piura",
+                "descripcion": "La Plaza de Armas es el corazón histórico y cultural de Piura.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Museo Vicús",
+                "descripcion": "Este museo alberga una impresionante colección de artefactos de la cultura Vicús.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Complejo Arqueológico Narihualá",
+                "descripcion": "Este complejo arqueológico ofrece la oportunidad de explorar las ruinas de una antigua ciudad Vicús.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Reserva Nacional de Manglares de Tumbes",
+                "descripcion": "Explora la biodiversidad única de los manglares tropicales en esta reserva nacional.",
+                "horas": "8:00 - 12:00",
+                "duracion": "4 horas"
+              },
+              {
+                "lugar": "Playa Máncora",
+                "descripcion": "Relájate en una de las playas más famosas del norte de Perú.",
+                "horas": "14:00 - 18:00",
+                "duracion": "4 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Mercado de Piura",
+                "descripcion": "Sumérgete en la vida local explorando el bullicioso Mercado de Piura.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Casona San Miguel",
+                "descripcion": "Termina tu viaje con una experiencia culinaria en la Casona San Miguel.",
+                "horas": "14:00 - 16:00",
+                "duracion": "2 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Chiclayo, Perú",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "Plaza de Armas de Chiclayo",
+                "descripcion": "La Plaza de Armas es el centro histórico y cultural de Chiclayo.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Museo de Sitio Huaca Rajada - Sipán",
+                "descripcion": "Descubre la impresionante colección de tesoros y artefactos encontrados en la tumba del Señor de Sipán.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Mercado Modelo de Chiclayo",
+                "descripcion": "Sumérgete en el bullicioso mercado y prueba la deliciosa gastronomía local.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Museo Nacional Tumbas Reales de Sipán",
+                "descripcion": "Explora la historia y la riqueza arqueológica de la región, incluyendo réplicas de tumbas reales y objetos de gran valor cultural.",
+                "horas": "9:00 - 12:00",
+                "duracion": "3 horas"
+              },
+              {
+                "lugar": "Paseo de Yortuque",
+                "descripcion": "Disfruta de un tranquilo paseo por este hermoso parque con lagunas, jardines y aves exóticas.",
+                "horas": "12:30 - 14:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Catedral de Chiclayo",
+                "descripcion": "Visita esta impresionante catedral construida en el siglo XIX, con una mezcla de estilos arquitectónicos.",
+                "horas": "15:00 - 16:30",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Museo de las Tumbas Reales de Sipán",
+                "descripcion": "Realiza una visita más detallada a este museo para apreciar en profundidad las piezas encontradas en las tumbas reales.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Bosque de Pomac",
+                "descripcion": "Explora este bosque seco tropical y visita el complejo arqueológico de Túcume, conocido como el Valle de las Pirámides.",
+                "horas": "11:30 - 14:30",
+                "duracion": "3 horas"
+              },
+              {
+                "lugar": "Almuerzo en restaurante local",
+                "descripcion": "Disfruta de la gastronomía norteña en un restaurante cercano al Bosque de Pomac.",
+                "horas": "14:30 - 16:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Madrid, España",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "Plaza Mayor",
+                "descripcion": "Explora la Plaza Mayor, uno de los lugares más emblemáticos de Madrid, con su arquitectura barroca, tiendas y cafeterías.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Mercado de San Miguel",
+                "descripcion": "Sumérgete en la vida madrileña y prueba una variedad de tapas y delicias gastronómicas en este mercado histórico.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Palacio Real de Madrid",
+                "descripcion": "Visita la residencia oficial de la Familia Real Española, con sus impresionantes salones, jardines y colecciones de arte.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Templo de Debod",
+                "descripcion": "Disfruta de una vista espectacular del atardecer en este antiguo templo egipcio, ubicado en el Parque del Oeste.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Museo del Prado",
+                "descripcion": "Explora una de las colecciones de arte más importantes del mundo, con obras maestras de artistas como Velázquez, Goya y El Greco.",
+                "horas": "9:00 - 12:00",
+                "duracion": "3 horas"
+              },
+              {
+                "lugar": "Parque del Retiro",
+                "descripcion": "Relájate en este hermoso parque, pasea en bote por el lago, visita el Palacio de Cristal y disfruta de los jardines.",
+                "horas": "12:30 - 14:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Puerta de Alcalá",
+                "descripcion": "Contempla este monumento neoclásico, ubicado en la Plaza de la Independencia, y captura algunas fotos memorables.",
+                "horas": "15:00 - 16:30",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Gran Vía",
+                "descripcion": "Recorre la famosa Gran Vía, llena de tiendas, teatros y vida nocturna, y disfruta del ambiente animado de la ciudad.",
+                "horas": "17:00 - 19:00",
+                "duracion": "2 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Museo Reina Sofía",
+                "descripcion": "Descubre el arte contemporáneo español, incluyendo la famosa obra 'Guernica' de Picasso, en este museo de renombre mundial.",
+                "horas": "9:00 - 12:00",
+                "duracion": "3 horas"
+              },
+              {
+                "lugar": "Barrio de La Latina",
+                "descripcion": "Explora este pintoresco barrio, conocido por sus estrechas calles, bares de tapas y ambiente bohemio.",
+                "horas": "12:30 - 14:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Mercado de San Antón",
+                "descripcion": "Disfruta de una auténtica experiencia culinaria en este mercado gourmet, donde podrás probar una variedad de platos y productos locales.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "El Rastro",
+                "descripcion": "Recorre este famoso mercado de pulgas, donde encontrarás antigüedades, ropa vintage, libros y mucho más.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Miami, EEUU",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "South Beach",
+                "descripcion": "Disfruta de la icónica playa de South Beach, conocida por su arena blanca, aguas cristalinas y vibrante ambiente.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Ocean Drive",
+                "descripcion": "Recorre la famosa Ocean Drive, bordeada de coloridos edificios art déco, restaurantes y bares.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Art Deco Historic District",
+                "descripcion": "Explora el distrito histórico de Art Deco y admira la arquitectura característica de los años 20 y 30.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Lincoln Road Mall",
+                "descripcion": "Haz compras, come en restaurantes de moda y disfruta del ambiente animado de Lincoln Road Mall.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Everglades National Park",
+                "descripcion": "Embárcate en un emocionante recorrido en hidrodeslizador por los Everglades y observa caimanes y vida silvestre.",
+                "horas": "9:00 - 12:00",
+                "duracion": "3 horas"
+              },
+              {
+                "lugar": "Little Havana",
+                "descripcion": "Sumérgete en la vibrante cultura cubana de Miami en Little Havana, con música, arte y deliciosa comida.",
+                "horas": "12:30 - 14:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Wynwood Walls",
+                "descripcion": "Explora el distrito artístico de Wynwood y admira los coloridos murales callejeros en Wynwood Walls.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Bayside Marketplace",
+                "descripcion": "Disfruta de las vistas al puerto, las tiendas y la música en vivo en el animado Bayside Marketplace.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Vizcaya Museum and Gardens",
+                "descripcion": "Explora la lujosa mansión y los exuberantes jardines de Vizcaya, un oasis de belleza y tranquilidad.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Miami Design District",
+                "descripcion": "Descubre las últimas tendencias en moda y diseño en el elegante Miami Design District.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Jungle Island",
+                "descripcion": "Pasa la tarde en Jungle Island, donde podrás interactuar con animales exóticos y disfrutar de espectáculos emocionantes.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Miami Beach Boardwalk",
+                "descripcion": "Da un paseo relajante por el Miami Beach Boardwalk y disfruta de las vistas al mar y a los rascacielos.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Barcelona, España",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "La Sagrada Familia",
+                "descripcion": "Visita la icónica obra maestra de Antoni Gaudí, una impresionante iglesia inacabada conocida por su arquitectura surrealista.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Parque Güell",
+                "descripcion": "Explora este parque único, diseñado por Gaudí, con sus coloridos mosaicos, esculturas y vistas panorámicas de la ciudad.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Barrio Gótico",
+                "descripcion": "Callejea por el pintoresco Barrio Gótico, el corazón histórico de Barcelona, con sus estrechas calles medievales y edificios centenarios.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "La Rambla",
+                "descripcion": "Pasea por la famosa avenida La Rambla, llena de vida, con artistas callejeros, tiendas, restaurantes y el mercado de La Boquería.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "La Pedrera (Casa Milà)",
+                "descripcion": "Visita otra obra maestra de Gaudí, La Pedrera, con su fachada ondulante y su impresionante azotea.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Mercat de Sant Josep de la Boqueria",
+                "descripcion": "Explora el bullicioso mercado de La Boquería y disfruta de una amplia variedad de productos frescos y delicias gastronómicas.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Barceloneta",
+                "descripcion": "Relájate en la playa de Barceloneta, toma el sol, nada en el mar y disfruta de la auténtica vida playera de Barcelona.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Port Olímpic",
+                "descripcion": "Pasea por el puerto olímpico, lleno de restaurantes, bares y vida nocturna, y disfruta de las vistas al mar y a los barcos.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Montjuïc",
+                "descripcion": "Sube a Montjuïc para disfrutar de vistas panorámicas de la ciudad y visita lugares de interés como el Castillo de Montjuïc y el Mirador de l'Alcalde.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Museo Picasso",
+                "descripcion": "Explora la impresionante colección de obras de Picasso en este museo dedicado al famoso pintor español.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Poble Espanyol",
+                "descripcion": "Descubre la diversidad arquitectónica de España en este pueblo español en miniatura, con réplicas de edificios de todo el país.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Casa Batlló",
+                "descripcion": "Termina tu visita con otra obra maestra de Gaudí, la Casa Batlló, con su fachada colorida y su interior de ensueño.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Venecia, Italia",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "Plaza de San Marcos",
+                "descripcion": "Comienza tu exploración de Venecia en la impresionante Plaza de San Marcos, donde podrás admirar la Basílica de San Marcos y el Campanario.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Palacio Ducal",
+                "descripcion": "Visita el magnífico Palacio Ducal, una obra maestra de la arquitectura gótica veneciana y sede del poder político en la antigua República de Venecia.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Paseo en góndola",
+                "descripcion": "Disfruta de un romántico paseo en góndola por los canales de Venecia, admirando los palacios y puentes desde el agua.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Puente de Rialto",
+                "descripcion": "Cruza el famoso Puente de Rialto, el más antiguo y famoso puente sobre el Gran Canal, y explora el animado mercado cercano.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Isla de Murano",
+                "descripcion": "Toma un vaporetto a la isla de Murano, famosa por su cristalería. Visita una fábrica de vidrio y admira las habilidades de los maestros vidrieros.",
+                "horas": "9:00 - 12:00",
+                "duracion": "3 horas"
+              },
+              {
+                "lugar": "Isla de Burano",
+                "descripcion": "Continúa tu viaje en vaporetto hasta la isla de Burano, conocida por sus coloridas casas y encajes. Explora el encantador pueblo y prueba los dulces locales.",
+                "horas": "12:30 - 15:00",
+                "duracion": "2.5 horas"
+              },
+              {
+                "lugar": "Isla de Torcello",
+                "descripcion": "Finaliza tu día en la tranquila isla de Torcello, donde podrás visitar la Basílica de Santa María Assunta y disfrutar de la serenidad del campo veneciano.",
+                "horas": "15:30 - 17:30",
+                "duracion": "2 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Galería de la Academia",
+                "descripcion": "Explora la Galería de la Academia, que alberga una impresionante colección de arte veneciano, incluyendo obras maestras de Tiziano, Tintoretto y Veronese.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Barrio del Cannaregio",
+                "descripcion": "Pasea por el auténtico barrio del Cannaregio, lejos de las multitudes turísticas, y descubre sus encantadoras calles y plazas.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Paseo por el Gran Canal",
+                "descripcion": "Toma un vaporetto y disfruta de un tranquilo paseo por el Gran Canal, admirando los palacios y edificios históricos desde el agua.",
+                "horas": "15:00 - 17:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Campo Santa Margherita",
+                "descripcion": "Termina tu visita en el animado Campo Santa Margherita, donde podrás disfrutar de un aperitivo veneciano y observar la vida local.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Paris, Francia",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "Torre Eiffel",
+                "descripcion": "Comienza tu visita a París con la icónica Torre Eiffel, donde podrás disfrutar de impresionantes vistas panorámicas de la ciudad desde lo alto.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Museo del Louvre",
+                "descripcion": "Explora una de las colecciones de arte más importantes del mundo en el Museo del Louvre, hogar de obras maestras como la Mona Lisa.",
+                "horas": "11:30 - 14:00",
+                "duracion": "2.5 horas"
+              },
+              {
+                "lugar": "Almuerzo en café parisino",
+                "descripcion": "Disfruta de un almuerzo típicamente francés en un encantador café parisino cerca del Louvre.",
+                "horas": "14:00 - 15:00",
+                "duracion": "1 hora"
+              },
+              {
+                "lugar": "Jardines de las Tullerías",
+                "descripcion": "Da un paseo por los hermosos Jardines de las Tullerías, que conectan el Louvre con la Plaza de la Concordia.",
+                "horas": "15:30 - 17:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Catedral de Notre-Dame",
+                "descripcion": "Termina tu día visitando la majestuosa Catedral de Notre-Dame, una obra maestra de la arquitectura gótica.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Barrio de Montmartre",
+                "descripcion": "Explora el encantador barrio de Montmartre, conocido por su ambiente bohemio, artistas callejeros y la famosa Basílica del Sagrado Corazón.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Paseo por el Barrio Latino",
+                "descripcion": "Recorre las estrechas calles adoquinadas del Barrio Latino, llenas de librerías, cafés y vida estudiantil.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Almuerzo en Le Marais",
+                "descripcion": "Disfruta de un almuerzo en el vibrante barrio de Le Marais, conocido por sus tiendas de moda y sus restaurantes de moda.",
+                "horas": "13:30 - 15:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Museo de Orsay",
+                "descripcion": "Explora la impresionante colección de arte impresionista y postimpresionista en el Museo de Orsay, ubicado en una antigua estación de tren.",
+                "horas": "15:30 - 17:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Paseo por el Sena",
+                "descripcion": "Finaliza tu día con un relajante paseo en barco por el río Sena, admirando los monumentos iluminados de París.",
+                "horas": "18:00 - 19:30",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Palacio de Versalles",
+                "descripcion": "Dedica tu último día a una excursión al majestuoso Palacio de Versalles, con sus opulentos salones, jardines y fuentes.",
+                "horas": "9:00 - 13:00",
+                "duracion": "4 horas"
+              },
+              {
+                "lugar": "Almuerzo en Versalles",
+                "descripcion": "Disfruta de un almuerzo en un encantador restaurante en Versalles, cerca del palacio.",
+                "horas": "13:00 - 14:00",
+                "duracion": "1 hora"
+              },
+              {
+                "lugar": "Regreso a París",
+                "descripcion": "Regresa a París y pasa la tarde haciendo compras en los grandes almacenes de lujo de la ciudad, como Galeries Lafayette o Printemps.",
+                "horas": "14:00 - 17:00",
+                "duracion": "3 horas"
+              },
+              {
+                "lugar": "Cena en un bistró parisino",
+                "descripcion": "Termina tu visita con una cena en un acogedor bistró parisino, donde podrás degustar la auténtica cocina francesa.",
+                "horas": "18:00 - 20:00",
+                "duracion": "2 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Tokio, Japon",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "Shibuya",
+                "descripcion": "Comienza tu visita en el bullicioso distrito de Shibuya, conocido por su famoso cruce peatonal y su animada vida nocturna.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Meiji Shrine",
+                "descripcion": "Visita el tranquilo Santuario Meiji, rodeado de frondosos bosques, y conoce la cultura japonesa y las tradiciones espirituales.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Harajuku",
+                "descripcion": "Explora el colorido distrito de Harajuku, famoso por su moda callejera vanguardista y sus tiendas únicas.",
+                "horas": "14:30 - 16:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Observatorio de la Torre de Tokio",
+                "descripcion": "Disfruta de impresionantes vistas de la ciudad desde el Observatorio de la Torre de Tokio, una de las estructuras más altas de la ciudad.",
+                "horas": "17:00 - 19:00",
+                "duracion": "2 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Tsukiji Fish Market",
+                "descripcion": "Explora el famoso mercado de pescado de Tsukiji, donde podrás ver una increíble variedad de mariscos frescos y probar deliciosos platos de sushi.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Jardines de Hamarikyu",
+                "descripcion": "Relájate en los hermosos Jardines de Hamarikyu, con lagunas, puentes y tradicionales casas de té japonesas.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Asakusa",
+                "descripcion": "Explora el encantador barrio de Asakusa, hogar del famoso templo Sensoji y el bullicioso Nakamise-dori.",
+                "horas": "14:30 - 16:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Tokyo Skytree",
+                "descripcion": "Visita la impresionante Tokyo Skytree, la torre de radiodifusión más alta del mundo, y disfruta de vistas panorámicas de la ciudad desde lo alto.",
+                "horas": "17:00 - 19:00",
+                "duracion": "2 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Ginza",
+                "descripcion": "Dedica tu último día a hacer compras en el exclusivo distrito comercial de Ginza, donde encontrarás boutiques de lujo, grandes almacenes y tiendas de diseño.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Akihabara",
+                "descripcion": "Explora el paraíso de la electrónica en Akihabara, con sus tiendas de tecnología, manga y anime.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Ueno Park",
+                "descripcion": "Pasea por el hermoso Ueno Park, donde podrás visitar el Zoológico de Ueno, el Museo Nacional de Tokio y el Templo Bentendo.",
+                "horas": "14:30 - 16:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Izakaya Cena",
+                "descripcion": "Termina tu día con una cena en un auténtico izakaya japonés, donde podrás probar una variedad de platos y bebidas tradicionales.",
+                "horas": "18:00 - 20:00",
+                "duracion": "2 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Lima, Perú",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "Plaza Mayor de Lima",
+                "descripcion": "Comienza tu visita explorando la histórica Plaza Mayor de Lima, donde podrás admirar la Catedral de Lima, el Palacio de Gobierno y el Palacio Arzobispal.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Museo de la Nación",
+                "descripcion": "Sumérgete en la historia y la cultura peruana en el Museo de la Nación, que alberga una impresionante colección de artefactos prehispánicos y coloniales.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Almuerzo en Miraflores",
+                "descripcion": "Disfruta de un delicioso almuerzo en el moderno distrito de Miraflores, conocido por su vibrante escena gastronómica.",
+                "horas": "13:30 - 15:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Parque Kennedy",
+                "descripcion": "Pasea por el Parque Kennedy y admira las obras de arte callejero, las tiendas de artesanías y los cafés al aire libre.",
+                "horas": "15:30 - 17:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Malecón de Miraflores",
+                "descripcion": "Finaliza tu día disfrutando de una caminata panorámica por el Malecón de Miraflores, con impresionantes vistas al Océano Pacífico.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Huaca Pucllana",
+                "descripcion": "Explora la antigua pirámide de adobe de Huaca Pucllana, un importante sitio arqueológico en medio de la ciudad.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Barrio Barranco",
+                "descripcion": "Callejea por el bohemio barrio de Barranco, lleno de arte, cultura y coloridas casonas republicanas.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Almuerzo en Barranco",
+                "descripcion": "Disfruta de la gastronomía peruana en uno de los acogedores restaurantes de Barranco.",
+                "horas": "13:30 - 15:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Puente de los Suspiros",
+                "descripcion": "Visita el emblemático Puente de los Suspiros, un romántico punto de encuentro en Barranco.",
+                "horas": "15:30 - 16:30",
+                "duracion": "1 hora"
+              },
+              {
+                "lugar": "Museo de Arte Contemporáneo (MAC)",
+                "descripcion": "Explora el Museo de Arte Contemporáneo (MAC) y descubre obras de arte contemporáneo peruano e internacional.",
+                "horas": "17:00 - 19:00",
+                "duracion": "2 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Circuito Mágico del Agua",
+                "descripcion": "Dedica tu último día a visitar el Circuito Mágico del Agua en el Parque de la Reserva, donde podrás disfrutar de impresionantes fuentes de agua, luces y música.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Museo Larco",
+                "descripcion": "Explora la impresionante colección de arte precolombino del Museo Larco, ubicado en una hermosa mansión virreinal.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Almuerzo en Pueblo Libre",
+                "descripcion": "Disfruta de un almuerzo en el pintoresco distrito de Pueblo Libre, cerca del Museo Larco.",
+                "horas": "13:30 - 15:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Centro Histórico de Lima",
+                "descripcion": "Termina tu visita explorando el encantador Centro Histórico de Lima, declarado Patrimonio de la Humanidad por la UNESCO, con sus hermosas iglesias, plazas y arquitectura colonial.",
+                "horas": "15:30 - 17:30",
+                "duracion": "2 horas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "user": {
+        "lugar": "Atenas, Grecia",
+        "dias": 3
+      },
+      "assistant": {
+        "dias": [
+          {
+            "numero": 1,
+            "actividades": [
+              {
+                "lugar": "Acrópolis",
+                "descripcion": "Comienza tu visita en el corazón de la antigua Atenas, la Acrópolis, donde podrás admirar el Partenón, el Erecteión y otros impresionantes templos griegos.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Museo de la Acrópolis",
+                "descripcion": "Explora el Museo de la Acrópolis, que alberga una impresionante colección de esculturas y artefactos arqueológicos encontrados en la Acrópolis.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Plaka",
+                "descripcion": "Recorre el pintoresco barrio de Plaka, con sus estrechas calles empedradas, tiendas de recuerdos y tabernas tradicionales.",
+                "horas": "14:30 - 16:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Ágora Antigua",
+                "descripcion": "Visita la antigua Ágora de Atenas, el centro de la vida política y social de la antigua Atenas, donde podrás ver ruinas como el Templo de Hefesto y la Stoa de Átalo.",
+                "horas": "17:00 - 19:00",
+                "duracion": "2 horas"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "actividades": [
+              {
+                "lugar": "Monastiraki",
+                "descripcion": "Explora el animado barrio de Monastiraki, conocido por su famoso mercado de pulgas y sus vistas panorámicas de la Acrópolis.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Biblioteca de Adriano",
+                "descripcion": "Visita la Biblioteca de Adriano, una antigua biblioteca y complejo cultural construido por el emperador romano Adriano en el siglo II d.C.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Almuerzo en Psiri",
+                "descripcion": "Disfruta de un almuerzo en el moderno barrio de Psiri, conocido por sus cafés, bares y restaurantes de moda.",
+                "horas": "13:30 - 15:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Estadio Panatenaico",
+                "descripcion": "Visita el Estadio Panatenaico, el estadio de mármol blanco que acogió los primeros Juegos Olímpicos de la era moderna en 1896.",
+                "horas": "15:30 - 17:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Anafiotika",
+                "descripcion": "Explora el encantador barrio de Anafiotika, una pequeña isla en el corazón de Atenas con sus casas blancas y estrechas calles.",
+                "horas": "17:30 - 19:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "actividades": [
+              {
+                "lugar": "Museo Arqueológico Nacional",
+                "descripcion": "Dedica tu último día a visitar el Museo Arqueológico Nacional, que alberga una impresionante colección de artefactos y arte griego antiguo.",
+                "horas": "9:00 - 11:00",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Monte Licabeto",
+                "descripcion": "Sube al Monte Licabeto para disfrutar de impresionantes vistas panorámicas de Atenas y el mar Egeo desde lo alto.",
+                "horas": "11:30 - 13:30",
+                "duracion": "2 horas"
+              },
+              {
+                "lugar": "Almuerzo en Kolonaki",
+                "descripcion": "Disfruta de un almuerzo en el elegante barrio de Kolonaki, conocido por sus boutiques de lujo y sus restaurantes gourmet.",
+                "horas": "13:30 - 15:00",
+                "duracion": "1.5 horas"
+              },
+              {
+                "lugar": "Paseo por el barrio de Kolonaki",
+                "descripcion": "Pasea por el barrio de Kolonaki y disfruta de sus elegantes tiendas, cafés y galerías de arte.",
+                "horas": "15:30 - 17:00",
+                "duracion": "1.5 horas"
+              }
+            ]
+          }
+        ]
+      }
+    }
+
+
+  ]
+}

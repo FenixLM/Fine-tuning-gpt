@@ -1,0 +1,39 @@
+# Entornos virtuales
+venv/
+
+# Archivos de registro y archivos generados
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Carpeta de caché de archivos estáticos
+.cache/
+
+# Carpeta de caché de archivos HTML generados
+.cache/
+__pycache__/
+
+# Carpeta de caché de archivos de sesión
+sessions/
+
+# Archivo de base de datos SQLite
+*.db
+
+# Carpeta de archivos de compilación
+node_modules/
+
+# Dependencias y paquetes de Python
+.env
+.env.test
+.env.prod
+*.pyc
+
+# Dependencias de desarrollo
+dev/
+
+# Entorno de producción
+prod/
+
+# Entorno de prueba
+test/
