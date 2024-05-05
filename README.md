@@ -44,6 +44,30 @@ Aplicamos estos comandos en la terminal, ruta donde esta nuestro proyecto.
 ```
 
 
+
+
+#### LEVANTAR EL PROYECTO:
+
+Para levantar el proyecto necesitamos estas variables de entorno, en este caso estoy usando la terminal de git en Windows usamos export
+
+Nota: si se cierra vsCode, tendremos que activar el ambiente virtual, descrito en el paso anterior: venv/scripts/actívate
+
+Para Windows se cambia export por 
+```shell
+  $env:FLASK_APP = "index.py"
+  $env: OPENAI_API_KEY=sk-###########
+  flask run
+```
+
+
+Con terminal de GIT
+```shell
+  export FLASK_APP=index.py 
+  export OPENAI_API_KEY=sk-###########
+  flask run
+```
+
+
 ## API Referencias
 
 #### Crear formato 
@@ -77,27 +101,3 @@ Aquí probamos nuestro nuevo modelo
 ```http
   GET /test-job
 ```
-
-
-
-#### LEVANTAR EL PROYECTO:
-
-Para levantar el proyecto necesitamos estas variables de entorno, en este caso estoy usando la terminal de git en Windows usamos export
-
-Nota: si se cierra vsCode, tendremos que activar el ambiente virtual, descrito en el paso anterior: venv/scripts/actívate
-
-Para Windows se cambia export por 
-```shell
-  $env:FLASK_APP = "index.py"
-  $env: OPENAI_API_KEY=sk-###########
-  flask run
-```
-
-
-Con terminal de GIT
-```shell
-  export FLASK_APP=index.py 
-  export OPENAI_API_KEY=sk-###########
-  flask run
-```
-
