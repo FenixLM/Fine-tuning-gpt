@@ -81,13 +81,17 @@ Para levantar el proyecto necesitamos estas variables de entorno, en este caso e
 Nota: si se cierra vsCode, tendremos que activar el ambiente virtual, descrito en el paso anterior: venv/scripts/actívate
 
 Para Windows se cambia export por 
--	$env:FLASK_APP = "index.py"
--	$env: OPENAI_API_KEY=sk-###########
-- flask run
+```shell
+  $env:FLASK_APP = "index.py"
+  $env: OPENAI_API_KEY=sk-###########
+  flask run
+```
+
 
 Con terminal de GIT
--	export FLASK_APP=index.py 
--	export OPENAI_API_KEY=sk-###########
--	flask run
-
+```shell
+  export FLASK_APP=index.py 
+  export OPENAI_API_KEY=sk-###########
+  flask run
+```
 
