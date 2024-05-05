@@ -29,10 +29,16 @@ Aplicamos estos comandos en la terminal, ruta donde esta nuestro proyecto.
 
 **2. activamos los ambientes virtuales con:**:
 ```bash
-  . venv/scripts/actívate
+  . venv/scripts/activate
 ```
 
-**3. instalamos flask y las librerías openia y langChain:**:
+**3. intalamos las librerias requeridas:**:
+```bash
+  pip install -r requirements.txt
+```
+
+
+**EXTRA: si no quieres intalar las librerias requeridas puedes solo intalar flask y las librerías openia y langChain:**:
 ```bash
   pip install Flask openia langchain
 ```
